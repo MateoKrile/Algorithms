@@ -10,7 +10,7 @@ public:
     {
         map<int, int> result_map;
         vector<int> result; 
-        for (int i = 0 ; i<nums.size() ; i++ )
+        for (unsigned int i = 0 ; i<nums.size() ; i++ )
         {
             if(result_map.find(target-nums[i]) != result_map.end())
             {

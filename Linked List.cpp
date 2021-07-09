@@ -12,7 +12,7 @@ Node* CreateLinkedList(int numOfNodes)
     head->next = nullptr;
     head->value = 1;
     Node* current = head;
-    for(int i=2; i<numOfNodes; i++)
+    for (int i = 2; i < numOfNodes; i++)
     {
         Node* next = new Node;
         next->next = nullptr;
@@ -21,3 +21,4 @@ Node* CreateLinkedList(int numOfNodes)
         current = next;
     }
     return head;
+}
