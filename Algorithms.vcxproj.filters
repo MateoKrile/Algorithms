@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Strings">
+      <UniqueIdentifier>{90659e85-c4db-44c9-9974-a00cb03e060a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Arrays">
+      <UniqueIdentifier>{147e941c-ef1f-441a-9503-c4626e423c9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Recursion">
+      <UniqueIdentifier>{7ddbb5f6-bd8a-4431-bb5d-ca844752b688}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sorting">
+      <UniqueIdentifier>{fea01b1d-d20a-4071-ba48-bbfdc8732cd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List">
+      <UniqueIdentifier>{18a8656d-3ed4-420b-9f9e-b2fc137d03ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trees">
+      <UniqueIdentifier>{35b3543d-50b3-49fd-8e21-1667deb8e1f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Heaps and priority queues">
+      <UniqueIdentifier>{f6301d67-cc1b-41d1-a69d-88bf462ba3c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Queues and Stacks">
+      <UniqueIdentifier>{43d745ac-04b9-4629-8960-26a77e11c4cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Matrices">
+      <UniqueIdentifier>{18e2e42b-4306-48b1-b746-3102adaa9920}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Almost Palindrom.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="Backspace String Compare.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="Palindroms.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="Water Containter.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoSum.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Trapping Rainwater.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Reverse a linked list.cpp">
+      <Filter>Source Files\Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Linked List.cpp">
+      <Filter>Source Files\Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Flatten Multi level linked list.cpp">
+      <Filter>Source Files\Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Longest Substring Without Repeating Characters.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="Binary Search.cpp">
+      <Filter>Source Files\Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="Sorting.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="kth largest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Floyd%27s Algorithm.cpp">
+      <Filter>Source Files\Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue with stacks.cpp">
+      <Filter>Source Files\Queues and Stacks</Filter>
+    </ClCompile>
+    <ClCompile Include="Valid Parentheses.cpp">
+      <Filter>Source Files\Queues and Stacks</Filter>
+    </ClCompile>
+    <ClCompile Include="Min Parentheses to remove.cpp">
+      <Filter>Source Files\Queues and Stacks</Filter>
+    </ClCompile>
+    <ClCompile Include="Binary Seach Tree.cpp">
+      <Filter>Source Files\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Max Depth of BST.cpp">
+      <Filter>Source Files\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Level Order of BST.cpp">
+      <Filter>Source Files\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Right view of BST.cpp">
+      <Filter>Source Files\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Nodes in a Complete BST.cpp">
+      <Filter>Source Files\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Valid BST.cpp">
+      <Filter>Source Files\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Number of islands.cpp">
+      <Filter>Source Files\Matrices</Filter>
+    </ClCompile>
+    <ClCompile Include="Rotten Oranges.cpp">
+      <Filter>Source Files\Matrices</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
